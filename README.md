@@ -204,7 +204,7 @@ If you find this project valuable, consider supporting its development:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com) [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://ethereum.org/)
 
-**ETH Address:** `0x1234567890123456789012345678901234567890`
+**ETH Address:** `8Q8PpJe12Kc4frSASteGmGrZLsu9M8WoddYsm2trbzxH`
 
 ---
 
